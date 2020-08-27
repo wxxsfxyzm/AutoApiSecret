@@ -14,35 +14,12 @@ AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
 * **免费，不需要额外设备/服务器**，部署完不用管啦。
 * 加密版，隐藏应用id+机密，保护账号安全。
 
-### 特别说明/Thanks ###
-* 原教程博主-黑幕（酷安id-Paran）：https://blog.432100.xyz/index.php/archives/50/
-* 普通版地址：https://github.com/wangziyingwen/AutoApi
-* 加密版地址（推荐）：https://github.com/wangziyingwen/AutoApiSecret
-* 模仿人为应用开发版（包含升级步骤）：https://github.com/wangziyingwen/AutoApiSR
-* 超级版地址： https://github.com/wangziyingwen/AutoApiS
-* **常见错误及解决办法/更新日志**：https://github.com/wangziyingwen/Autoapi-test
-* 网页获取refresh_token小工具（不建议使用）：https://github.com/wangziyingwen/GetAutoApiToken
-* 视频教程：（我操作很慢，自行倍速/快进）
-   * 在线/下载地址：https://kino-onemanager.herokuapp.com/Video/AutoApi%E6%95%99%E7%A8%8B.mp4?preview
-   * B站：https://www.bilibili.com/video/av95688306/
 
-           
-
-### 区别 ###
-   [普通版（弃用）](https://github.com/wangziyingwen/AutoApi)：密钥暴露，不在乎的话可以使用
-   
-   [加密版（推荐）](https://github.com/wangziyingwen/AutoApiSecret)：应用id机密加密隐藏，提高安全性
-
-   [模仿人为应用开发版（半弃用）](https://github.com/wangziyingwen/AutoApiSR)：顾名思义，加密版的升级版。由于超级版兼容模拟版的功能，此版本处于一种尴尬位置。（当然也可以正常使用）
-   
-   [超级版（不建议）](https://github.com/wangziyingwen/AutoApiS)：进一步升级版，增加自定义参数、模式。按目前情况，微软续订要求很低，暂时不需要使用此项目。
-   
-   **以上推荐/不建议等只是个人意见，请自行选择版本，可同时使用**。
 
 --------------------------------------------------------------
 
 ### 步骤 ###
-   *** **有错误/问题请看**:    [常见错误及解决办法/更新日志](https://github.com/wangziyingwen/Autoapi-test) ***   
+   *** **有错误/问题请看**:     ***   
 
 * 第一步，先大致浏览[原教程](https://blog.432100.xyz/index.php/archives/50/)，了解如何获取应用id、机密、refresh_token 3样东西，以方便接下来的操作。
 
@@ -129,18 +106,3 @@ AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
 
 （我们这里用的公共仓库，按理，你们可以设定无限循环调用，然后6小时启动一次，保证24小时全天候调用）
 
-### 最后 ###
-  教程很直白了，应该都会弄吧！
-  
-  代码小白，多包涵！有问题/修改建议可以点击上方issues发布一下，或者PY给我:
-  wz.lxh@outlook.com
-  
-  Q群：[657581700](https://jq.qq.com/?_wv=1027&k=5FQJbWmV)  （项目相关讨论）
-  
-  tg群：[OneDrive E5](https://t.me/joinchat/OLlK9RsbBlmTYOJS_BU4Mg)   （**非项目相关**讨论！**tg可能不会及时在线回答问题**，任何项目相关的问题或出错请进Q群/邮箱/issue）
-  
-
-  
-  最后的最后，再次感谢黑幕/paran大佬
-  
-  ————wangziyingwen/酷安id-卷腿毛菌
